@@ -1,0 +1,14 @@
+* libtwilight
+
+libtwilight is a small C library to create, parse, and manage Org-mode files. libtwilight will generate an AST of the file, that you can use on another program.
+
+This is a small project that I started to serve as a base to build [[https://www.campanita.xyz/][my website]]. It's also my first important standalone project, so I will be more than happy to receiving issues, pull requests, or simply any comment to improve it.
+
+** License
+This file is part of libtwilight.
+
+libtwilight is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+libtwilight is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with libtwilight. If not, see <https://www.gnu.org/licenses/>.
